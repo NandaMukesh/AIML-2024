@@ -1,1 +1,5 @@
 #LAB-1 (https://github.com/NandaMukesh/AIML-2024/blob/main/AIML_LAB_01.ipynb)
+#LAB- 2 (https://github.com/NandaMukesh/AIML-2024/blob/main/AIML_Lab02.ipynb)
+#LAB - 3 (https://github.com/NandaMukesh/AIML-2024/blob/main/AIML_Lab03.ipynb)
+#LAB - 4 (https://github.com/NandaMukesh/AIML-2024/blob/main/AIML_Lab04.ipynb)
+#LAB - 5 (https://github.com/NandaMukesh/AIML-2024/blob/main/AIML_Lab05.ipynb)
